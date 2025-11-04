@@ -1,0 +1,6 @@
+marketer_id,name,grade,revenue_total,bonus_percent_of_revenue,final_bonus
+3,Carol,Senior,50000,7,3500.0
+5,Eva,Senior,35000,7,2450.0
+2,Bob,Middle,27000,5,1350.0
+1,Alice,Junior,20000,3,600.0
+4,Dan,Middle,9000,5,450.0
